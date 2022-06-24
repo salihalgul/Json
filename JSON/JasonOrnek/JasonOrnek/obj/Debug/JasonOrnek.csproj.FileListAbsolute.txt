@@ -1,0 +1,20 @@
+C:\Users\Can\Desktop\JasonOrnek\JasonOrnek\bin\Debug\JasonOrnek.exe.config
+C:\Users\Can\Desktop\JasonOrnek\JasonOrnek\bin\Debug\JasonOrnek.exe
+C:\Users\Can\Desktop\JasonOrnek\JasonOrnek\bin\Debug\JasonOrnek.pdb
+C:\Users\Can\Desktop\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.Form1.resources
+C:\Users\Can\Desktop\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.Properties.Resources.resources
+C:\Users\Can\Desktop\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.exe
+C:\Users\Can\Desktop\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.pdb
+D:\C# EGITIM\Jason Kaydetme\JasonOrnek\JasonOrnek\bin\Debug\JasonOrnek.exe.config
+D:\C# EGITIM\Jason Kaydetme\JasonOrnek\JasonOrnek\bin\Debug\JasonOrnek.exe
+D:\C# EGITIM\Jason Kaydetme\JasonOrnek\JasonOrnek\bin\Debug\JasonOrnek.pdb
+D:\C# EGITIM\Jason Kaydetme\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.csprojAssemblyReference.cache
+D:\C# EGITIM\Jason Kaydetme\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.Form1.resources
+D:\C# EGITIM\Jason Kaydetme\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.Properties.Resources.resources
+D:\C# EGITIM\Jason Kaydetme\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.csproj.GenerateResource.cache
+D:\C# EGITIM\Jason Kaydetme\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.csproj.CoreCompileInputs.cache
+D:\C# EGITIM\Jason Kaydetme\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.exe
+D:\C# EGITIM\Jason Kaydetme\JasonOrnek\JasonOrnek\obj\Debug\JasonOrnek.pdb

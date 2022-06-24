@@ -1,0 +1,10 @@
+C:\Users\Can\Desktop\Emojilerim\bin\Debug\Emojilerim.exe.config
+C:\Users\Can\Desktop\Emojilerim\bin\Debug\Emojilerim.exe
+C:\Users\Can\Desktop\Emojilerim\bin\Debug\Emojilerim.pdb
+C:\Users\Can\Desktop\Emojilerim\obj\Debug\Emojilerim.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Emojilerim\obj\Debug\Emojilerim.Form1.resources
+C:\Users\Can\Desktop\Emojilerim\obj\Debug\Emojilerim.Properties.Resources.resources
+C:\Users\Can\Desktop\Emojilerim\obj\Debug\Emojilerim.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\Emojilerim\obj\Debug\Emojilerim.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Emojilerim\obj\Debug\Emojilerim.exe
+C:\Users\Can\Desktop\Emojilerim\obj\Debug\Emojilerim.pdb
